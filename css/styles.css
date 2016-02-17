@@ -1,0 +1,68 @@
+/* Wireframing Only */
+*:not(body):not(html) {
+  box-sizing:border-box;
+  border:1px dashed #000;
+}
+/*.main-content {
+  height: 300px;
+}*/
+/* End Wireframing */
+
+/* Layout */
+
+h4 {
+  background-color: #ededed;
+  text-align: center;
+}
+
+.menu-container {
+  margin:
+}
+
+.menu {
+  width: 69%;
+  overflow: auto;
+  padding: 0;
+  margin: 0 auto 10px auto;
+}
+
+.menu li {
+  float: left;
+  margin: 10px;
+  list-style: none;
+}
+
+.form-control {
+  width: 40%;
+  margin: 0 auto;
+}
+
+
+/* Detail Styling */
+.red-text {
+  color: red;
+}
+.main-content img {
+  max-width: 100px;
+  margin: 0;
+  float: left;
+  margin-right: 25px;
+}
+.places1, .places2 {
+  float: left;
+  width: 45%;
+  list-style: none;
+}
+.date {
+  float: left;
+  margin-right: 45px;
+}
+.news {
+  float: right;
+  color: red;
+  margin: 20px;
+}
+
+#tweets {
+  padding: 50px;
+}
